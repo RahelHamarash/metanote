@@ -5,7 +5,6 @@ import Content from "./components/Content"
 import Notes from "./components/Notebooks/Notes";
 import Sidebar from "./components/Sidebar";
 import Editor from "./components/Notebooks/Editor"
-import "./components/styles.css"
 import NotebooksMobile from "./components/Notebooks/NotebooksMobile";
 import {BrowserRouter as Router , Switch , Route } from "react-router-dom"
 

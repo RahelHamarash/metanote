@@ -1,7 +1,5 @@
 import React ,{Component , Fragment} from "react";
 import {Icon , Card , Divider  } from "semantic-ui-react"
-import 'semantic-ui-css/semantic.min.css'
-import "../substyles.css"
 import {SpringSpinner} from 'react-epic-spinners'
 import {Link } from "next/link"
 class NotebookSubBar extends Component{

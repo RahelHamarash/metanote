@@ -1,7 +1,6 @@
 import React , {Component} from "react"
 // tinymce
 import TinyMce from "./TinyMce"
-import "./editor.css"
 
 
 class Editor extends Component{

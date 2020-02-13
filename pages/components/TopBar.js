@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import "./topbar.css" ;
 import {Button} from "semantic-ui-react"
-import 'semantic-ui-css/semantic.min.css'
 
 class TopBar extends Component{
 

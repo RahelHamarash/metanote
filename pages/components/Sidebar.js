@@ -1,8 +1,6 @@
 import React ,{Component} from "react";
 import {Icon } from "semantic-ui-react"
-import 'semantic-ui-css/semantic.min.css'
 import NotebookSubBar from "./Notebooks/NotebookSubBar";
-import "./sidebar.css"
 import {Link} from "next/link"
 class Sidebar extends Component{
 

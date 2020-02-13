@@ -23,7 +23,6 @@ import "tinymce/plugins/directionality"
 import "tinymce/plugins/paste"
 import {Icon} from "semantic-ui-react"
 import {Idle} from "idlejs/dist"
-import 'semantic-ui-css/semantic.min.css'
 import {HalfCircleSpinner} from 'react-epic-spinners'
 
 class TinyMce extends Component {

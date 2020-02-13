@@ -1,7 +1,5 @@
 import React , {Component , Fragment} from "react";
 import {Icon , Card , Image , Header , Divider , Button , Popup , Grid} from "semantic-ui-react"
-import 'semantic-ui-css/semantic.min.css'
-import "./notes.css"
 import {Link} from "next/link"
 import {HalfCircleSpinner} from 'react-epic-spinners'
 import ScaleText from "react-scale-text";

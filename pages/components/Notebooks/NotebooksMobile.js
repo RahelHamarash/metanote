@@ -1,6 +1,5 @@
 import React , {Component , Fragment} from "react"
 import {Icon , Card , Grid , Divider } from "semantic-ui-react"
-import "../substyles.css"
 import {Link} from "next/link"
 
 
